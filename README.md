@@ -11,10 +11,10 @@ Some samples about CoordinatorLayout
 #### 引用>
 > 这里是一段引用，你试试看吧
 
-#### 插入连接-百度[]()
+#### 插入连接-百度 []()
 [百度](http://baidu.com)
 
-#### 插入图片![]()
+#### 插入图片 ![]()
 ![Mou icon](http://mouapp.com/Mou_128.png)
 
 #### 斜体用*包裹
