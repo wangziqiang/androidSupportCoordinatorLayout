@@ -23,6 +23,8 @@ Some samples about CoordinatorLayout
 **这是一段粗体文字 ok?**
 
 #### 表格
-|Tables  |Are   |Cool   |
-|--------|  :------: | ------: |
-|  second  |  center | last |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
