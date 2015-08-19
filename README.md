@@ -21,3 +21,8 @@ Some samples about CoordinatorLayout
 
 #### 粗体用**包裹
 **这是一段粗体文字 ok?**
+
+#### 表格
+|Tables|Are|Cool|
+|------|:-:|---:|
+|second|center|last|
