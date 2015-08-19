@@ -1,7 +1,5 @@
 package wzq.nothing.quickreturn;
 
-import android.animation.Animator;
-import android.animation.AnimatorListenerAdapter;
 import android.content.Context;
 import android.support.design.widget.CoordinatorLayout;
 import android.support.v4.view.ViewCompat;
@@ -11,6 +9,7 @@ import android.view.View;
 import android.view.ViewPropertyAnimator;
 
 /**
+ * QuickReturnFooter View 的 Behavior
  * Created by wangziqiang on 2015/8/18.
  */
 public class MyQuickReturnFooterBehavior extends CoordinatorLayout.Behavior<View> {
